@@ -3649,4 +3649,11 @@
     "decimals": "3",
     "ticker": "BULL"
   }
+  "5073d401e534ba0f8f7705fac8ba837013207e47ea6842a28b3e30b7": {
+  "token_id": "5073d401e534ba0f8f7705fac8ba837013207e47ea6842a28b3e30b7",
+    "token_policy": "5073d401e534ba0f8f7705fac8ba837013207e47ea6842a28b3e30b7",
+    "token_ascii": "Messiah",
+    "is_verified": true,
+    "decimals": "0",
+    "ticker": "MESSI"
 }
